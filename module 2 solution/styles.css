@@ -1,0 +1,40 @@
+*{
+	box-sizing:border-box;
+}
+h1
+{
+	font-size : 150%;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+p
+{
+	font-size:30px;
+	text-align:center;
+	color: #00FFFF ;
+}
+#virus1
+{
+	background-color: gray; border-color: cyan;
+
+}
+	#virus2
+	{
+		background-color: maroon; border-color:yellow;
+	}
+#virus3
+{
+	background-color: lightpink ; border-color: skyblue;
+}
+.horizontal
+{
+	padding : 20px 20px 20px 20px;
+	border-width:3px solid;
+	margin:20px;
+	width:190px;
+	height:50px;
+	background-color: purple;
+
+}
