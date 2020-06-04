@@ -40,13 +40,13 @@ div#bam{
 
 
 .navbar-dark {
-     background-color: cyan!important;
+     background-color: gray!important;
      }
 
 
 
 nav#haha{
-	background-color: cyan!important;
+	background-color: gray!important;
 
 	right:0;
 	margin-right:-300px;
@@ -67,7 +67,7 @@ li{
 	text-align: center;
 	color: black;
 	border:1px solid black;
-	text-decoration-color: cyan;
+	text-decoration-color: gray;
 	background-color:rgb(218, 215, 229);
 }
 
@@ -81,5 +81,5 @@ a:hover{
 }
 
 .nav-item-active{
-	background-color: cyan;
+	background-color: gray;
 }
