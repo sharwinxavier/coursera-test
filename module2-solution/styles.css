@@ -1,0 +1,85 @@
+
+*{
+	font-family: 'Balsamiq Sans';
+}
+
+body{
+	font-size:16px;
+	color: black;
+	background-color: white;
+}
+
+#header-nav{
+	background-color: gray;
+	border:1.5px solid black;
+	padding-right:300px;
+	padding-bottom:20px;
+}
+
+div.container{
+	font-size:150%;
+	
+}
+
+#menubar{
+	font-size:180%;
+	padding-top:30px;
+}
+
+div#boom.container{
+	background-color: gray;
+	text-align: center;
+	margin-top:60px;
+}
+
+div#bam{
+	font-size: 80%;
+	font-weight:350;
+}
+
+
+
+.navbar-dark {
+     background-color: cyan!important;
+     }
+
+
+
+nav#haha{
+	background-color: cyan!important;
+
+	right:0;
+	margin-right:-300px;
+	object-position: right;
+}
+
+button.navbar-toggler{
+	float:right;
+
+}
+
+ul{
+	text-align: center;
+	border:1px solid black;
+}
+
+li{
+	text-align: center;
+	color: black;
+	border:1px solid black;
+	text-decoration-color: cyan;
+	background-color:rgb(218, 215, 229);
+}
+
+a{
+	color:black;
+}
+
+a:hover{
+	background-color: gray;
+	color:white;
+}
+
+.nav-item-active{
+	background-color: cyan;
+}
